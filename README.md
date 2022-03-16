@@ -1,16 +1,20 @@
-### Hi there 👋
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
-<!--
-**FoggyFinder/FoggyFinder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+[**F# Slack Team**](https://fsharp.org/guides/slack/)
 
-Here are some ideas to get you started:
+[**F# community forums**](https://forums.fsharp.org)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[**F# chat room on SO**](https://chat.stackoverflow.com/rooms/51909/f)
+
+[**WPF chat room on SO**](https://chat.stackoverflow.com/rooms/18165/wpf)
+
+[**CoDidact: Software Development**](https://software.codidact.com)
+
+-----------
+
+`XTZ` : `tz1NamrcVY1phmr3kjxG2GFaT3t6sr2ru7ik`
+
+`ATOM` : `cosmos1899y7xd3vluctkw4u2n9zr2p5wq5tzlagcqrs9`
+
+`LTC` : `Li2JayLeRe33w5W2n4RcHXAAFzf1nizb4V`
